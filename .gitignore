@@ -5,3 +5,6 @@ vgg13bn_models_Weights/personC.zip
 vgg13bn_models_Weights/personB.zip
 vgg13bn_models_Weights/personA.zip
 lastSiames_InceptionWieghts.pth
+ObjectDetection_task/model_frcnn_vgg.hdf5
+ObjectDetection_task/model_vgg_config.pickle
+*.tif

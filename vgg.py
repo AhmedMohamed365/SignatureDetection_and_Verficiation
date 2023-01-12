@@ -114,7 +114,7 @@ def getVerificationModel(PersonID, path):
         model = torch.load(path + "personE.zip")
 
     #print(f"personID = {PersonID} loaded")
-    print(f"model loaded to device {device}")
+    #print(f"model loaded to device {device}")
     return model
 
 #device = "cpu"
